@@ -36,6 +36,10 @@ body {
   border-bottom: 1px solid #512da8;
 }
 
+.h-emphasis {
+  font-style: italic
+}
+
 button {
   background-color: #673ab7;
   border: 0 none;
@@ -54,4 +58,9 @@ button:focus {
 button:active {
   outline: none;
   box-shadow: 3px 3px 8px #929292;
+}
+
+#div-result {
+  margin: 0 auto;
+  width: 420px;
 }
