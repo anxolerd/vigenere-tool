@@ -1,6 +1,8 @@
 Vigenere encryptor/decryptor
 ============================
 
+It it available at http://anxolerd.github.io/vigenere-tool
+
 Overview
 --------
 
@@ -16,10 +18,10 @@ The alphabet is extremely limited because it was the required minimum for the ex
 Aknowledgments
 --------------
 
-Special thanks to `@LyudmlD`_ and `@ttatus` for testing this in the real-world (at the exam).
+Special thanks to `@LdmlD`_ and `@ttatus`_ for testing this in the real-world (at the exam).
 
 
-.. _`viginere cipher`: https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
-.. _`preparing the exam for networks course`: http://anxolerd.github.io/updates/2016/06/26/exam-as-a-quest.html
-.. _`@Lydmld`: https://github.com/LyudmlD
-.. _`ttatus`: https://github.com/ttatus
+.. _vigenere cipher: https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+.. _preparing the exam for networks course: http://anxolerd.github.io/updates/2016/06/26/exam-as-a-quest.html
+.. _@Ldmld: https://github.com/LdmlD
+.. _@ttatus: https://github.com/ttatus
