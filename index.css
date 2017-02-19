@@ -64,3 +64,9 @@ button:active {
   margin: 0 auto;
   width: 420px;
 }
+
+#div-errors {
+  color: red;
+  font-size: 0.6em;
+  word-break: break-all;
+}
